@@ -1,0 +1,45 @@
+body{
+    font-size: 1.2345em;
+}
+
+.redValor{color: #f00; font-size: 1.8em;}
+
+.produto{
+    padding: 10px;
+    color:#222;
+}
+
+.produto:hover{
+    border: solid 1px #ddd;
+}
+
+.produto a{
+    text-decoration: none;
+    color:#222;
+}
+
+.produto img{
+    width: 100%;
+    max-width: 320px;
+}
+
+.produto .descricao, .produto .nome{
+
+}
+
+.produto .nome{
+    padding: 10px 0 0 0;
+    font-size: 1.25em;
+    font-weight: 600;
+}
+
+.produto .valor{
+    font-size: 1.65em;
+    font-weight: 800;
+    color: #f00;
+}
+
+.produtopq{
+    width: 100%;
+    max-width: 80px;
+}
